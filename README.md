@@ -71,3 +71,6 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 ├── lib/
 │   ├── ai-client.ts          # Anthropic SDK wrapper
 │   ├── file-parsers
+│   └── report-prompts.ts     # Report prompt templates
+└── store/
+    └── index.ts              # Zustand stores
